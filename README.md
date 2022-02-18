@@ -1,6 +1,3 @@
-<div align="right">
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSonSangjoon&count_bg=%23D1D1D1&title_bg=%235A9AFF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-</div>
 
 
 ## 🖥 Front-End Developer
@@ -20,3 +17,6 @@
 <!-- 
 [![SangJoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=SonSangjoon&show_icons=true&theme=gotham)](https://github.com/SonSangjoon) -->
 
+<!-- <div align="right">
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSonSangjoon&count_bg=%23D1D1D1&title_bg=%235A9AFF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+</div> -->
