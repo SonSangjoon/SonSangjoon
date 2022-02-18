@@ -2,7 +2,7 @@
 
 ## 🖥 Front-End Developer
 
- <img  align="left" src="https://user-images.githubusercontent.com/74908906/154727950-b8f2465f-99ac-478b-b990-ffc28473213e.gif" height="200px" alt="https://www.behance.net/gallery/12332391/Instapack-Animation/modules/88085053"/>
+ <img  align="left" src="https://user-images.githubusercontent.com/74908906/154727950-b8f2465f-99ac-478b-b990-ffc28473213e.gif" height="185px" alt="https://www.behance.net/gallery/12332391/Instapack-Animation/modules/88085053"/>
  
 ### 프론트엔드 개발자 손상준입니다.
 
