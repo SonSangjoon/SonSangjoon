@@ -12,7 +12,7 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?&style=flat-square&logo=react&logoColor=white)  ![Recoil](https://img.shields.io/badge/Recoil-2496ED?style=flat-square&logo=react&logoColor=white) ![ReactQuery](https://img.shields.io/badge/React_Query-CA4245?style=flat-square&logo=react&logoColor=white) 
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?&style=flat-square&logo=Vue.js&logoColor=white) ![Vuex](https://img.shields.io/badge/-Vuex-34495e?&style=flat-square&logo=Vue.js&logoColor=white)  
 
-[Portfolio](https://peppermint-need-c5c.notion.site/Portfolio-4d52917684f04a7bae90479630a2fb73) | [Blog](https://sonsangjoon.github.io/blog)
+[About Me](https://peppermint-need-c5c.notion.site/Portfolio-4d52917684f04a7bae90479630a2fb73) | [Blog](https://sonsangjoon.github.io/blog)
   
 <!-- 
 [![SangJoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=SonSangjoon&show_icons=true&theme=gotham)](https://github.com/SonSangjoon) -->
