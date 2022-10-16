@@ -1,7 +1,6 @@
 
 
-<h2> 🖥 프론트엔드 개발자입니다. </h2>
-<h2> 🖥 Frontend Developer </h2>
+<h1> 🖥 프론트엔드 개발자 - Frontend Developer</h1>
 
 <!-- <div>
   <img align="left" src="https://user-images.githubusercontent.com/74908906/154727950-b8f2465f-99ac-478b-b990-ffc28473213e.gif" height="200px" alt="https://www.behance.net/gallery/12332391/Instapack-Animation/modules/88085053"/>
